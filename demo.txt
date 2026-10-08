@@ -1,0 +1,9 @@
+# 示例文本 / Sample text
+
+这是一份用来试跑 `textstat.py` 的中文示例文件。
+第二行也有一些 English words 和 numbers 1234。
+
+Hello, world! This line is mostly ASCII.
+第三行：混排 mixed content 测试。
+
+（下面是用来测试空行统计的留白）
